@@ -1,6 +1,6 @@
 - <h1>👋 Hi, I’m @Arya2089</h1>
 - <p>👀 I’m interested in this community 
-- 🌱 I’m currently learning HTML</p>
+- 🌱 I’m currently learning python</p>
 - 📫 How to reach me, EMAIL!
 - 😄 Pronouns: INFP
 - ⚡ Fun fact: 13 YEARS _ IRAN
